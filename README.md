@@ -1,6 +1,8 @@
-# Humor Caption App
+# Humor Study
 
 A web app for AI-generated meme captions. Upload an image and the app sends it through a caption-generation pipeline, then shows the results in a scrolling feed where people vote captions up or down. Built for Columbia's Humor Project course (spring 2026).
+
+**Live app: [hello-world-virid-eta.vercel.app](https://hello-world-virid-eta.vercel.app)** (sign-in with a class Google account required)
 
 ## Features
 
